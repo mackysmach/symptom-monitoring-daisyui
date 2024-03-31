@@ -1,0 +1,20 @@
+
+
+.flex-button-container {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.flex-search-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+}
+
+.searchbar {
+    display: flex;
+
+    text-align: left;
+}
